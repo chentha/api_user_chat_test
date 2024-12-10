@@ -1,0 +1,78 @@
+{
+  "status": true,
+  "message": "Users fetched successfully",
+  "data": [
+    {
+      "id": 1,
+      "username": "Test 1",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/non_2x/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "message": "Hello",
+      "send_time": "10:45",
+      "status": "online"
+    },
+    {
+      "id": 2,
+      "username": "Test 2",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sophia_Smith_2024-02_%28cropped%29.jpg",
+      "message": "Good morning!",
+      "send_time": "09:30",
+      "status": "offline"
+    },
+    {
+      "id": 3,
+      "username": "Test 3",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/d/d4/David_johnson_2018.jpg",
+      "message": "See you soon.",
+      "send_time": "11:15",
+      "status": "online"
+    },
+    {
+      "id": 4,
+      "username": "Test 4",
+      "avatar": "https://dnan0fzjxntrj.cloudfront.net/Pictures/480xAny/3/5/2/27352_304680953_542598694329739_3631736286234571226_n_801078.jpg",
+      "message": "Got it, thanks!",
+      "send_time": "12:00",
+      "status": "offline"
+    },
+    {
+      "id": 5,
+      "username": "Test 5",
+      "avatar": "https://communication.northwestern.edu/images/faculty/brown-michael.jpeg",
+      "message": "Let's catch up later.",
+      "send_time": "13:20",
+      "status": "online"
+    },
+    {
+      "id": 6,
+      "username": "Test 6",
+      "avatar": "https://hbstrategies.us/wp-content/uploads/2023/12/OliviaWilson.jpg",
+      "message": "I’m on it.",
+      "send_time": "14:45",
+      "status": "offline"
+    },
+    {
+      "id": 7,
+      "username": "Test 7",
+      "avatar": "https://gopoly.com/images/2020/4/15/liam_martinez_track_2017_18.jpg?width=300",
+      "message": "Sounds good!",
+      "send_time": "15:10",
+      "status": "online"
+    },
+    {
+      "id": 8,
+      "username": "Test 8",
+      "avatar": "https://phantom-marca.unidadeditorial.es/ca4d39f60d28fd428d443ffcfde402f6/resize/828/f/jpg/assets/multimedia/imagenes/2024/06/22/17190718411826.jpg",
+      "message": "Will do.",
+      "send_time": "16:30",
+      "status": "offline"
+    },
+    {
+      "id": 9,
+      "username": "Test 9",
+      "avatar": "https://imgresizer.tntsports.io/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.tntsports.io/2016/01/12/1769150-37381127-2560-1440.jpg",
+      "message": "Thanks a lot!",
+      "send_time": "17:50",
+      "status": "online"
+    }
+  ]
+}
